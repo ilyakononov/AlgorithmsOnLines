@@ -1,7 +1,7 @@
 from time import time
 br = [0,0]
 brs = [0,0]
-alphabet = ['a', 'b', 'c']
+alphabet = ['a', 'b', 'c', 'd', 'e']
 
 def maxborderarray(s):
 	n = len(s) - 1
